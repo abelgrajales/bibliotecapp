@@ -1,10 +1,11 @@
 # 💻 BibliotecApp 💻
 
-## 📚 Description 📚
-Aplicación movil para llevar un control de los libros de la biblioteca de la escuela primeria "Libertadores de Ámerica"
+## 📚 Descripción 📚
+Aplicación movil para llevar un control de los libros de la biblioteca de la escuela primeria "Libertadores de Ámerica", con función para exportar los datos a Excel
 
 ## 🚀 Features 🚀
-- CRUD 
+- CRUD completo para libros
+- Exportación de datos a Excel
 
 
 ## 🤖 Technologies 🤖
